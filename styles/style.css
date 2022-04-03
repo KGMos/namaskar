@@ -1,0 +1,33 @@
+html {
+  font-size: 25px; /* px значит 'пиксели': базовый шрифт будет 25 пикселей в высоту  */
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: rgb(230, 230, 230);
+}
+body{
+  width: 600px;
+  margin:0 auto;
+  background-color: rgb(250, 210, 164);
+  padding: 20px 20px 20px 20px;
+  border: 5px solid rgb(0, 0, 0);
+}
+h1{
+  margin: 0px;
+  padding: 20px 0;
+  color:rgb(0, 0, 0);
+  text-shadow: 3px 3px 5px rgb(240, 240, 240);
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
